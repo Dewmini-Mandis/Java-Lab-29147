@@ -1,4 +1,4 @@
-<h3>Qusetion 03</h3>
+<h3>Qusetion</h3>
 
 Try following code. What is the outcome? Why?
 

@@ -1,5 +1,8 @@
 <h3>Question</h3>
 
+<img width="142" alt="IMG3" src="https://github.com/Dewmini-Mandis/Java-Lab-29147/assets/136433945/4f6d0019-1810-403b-9943-a55242b09822">
+
+
 
 The Volume of a Cylinder can be found with the following formula: 
                 
@@ -13,5 +16,6 @@ Note: Container is an abstract class.
   
 (i)	Write down the Java definition of class container  
 (ii)	Write the Java Definition of class CylindricalContainer. (Implement the Methods)
-(iii)	Create an object from CylindricalContainer and display the volume.
+<br>(iii)	Create an object from CylindricalContainer and display the volume.
+
 
